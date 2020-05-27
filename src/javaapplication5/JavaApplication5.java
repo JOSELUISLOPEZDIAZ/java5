@@ -15,7 +15,7 @@ public class JavaApplication5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      System.out.println("Hooogggggfffgggggggggo2oo33333333flaaaaa.....!!!!!!!");   // TODO code application logic here
+      System.out.println("Hooogggggfffgggggggggo2oo33333333flaaaaa.***********....!!!!!!!");   // TODO code application logic here
     }
     
 }
